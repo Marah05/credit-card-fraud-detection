@@ -50,3 +50,6 @@ Stratified splitting is used to preserve the proportion of fraudulent and legiti
 
 Conclusion
 This project demonstrates a basic machine-learning workflow for credit card fraud detection, including data exploration, preprocessing, model training, evaluation, and prediction. The Precision Recall curve and classification metrics provide a more useful assessment than accuracy alone because the dataset is highly imbalanced.
+
+##Live application
+credit card fraud detection app https://credit-card-fraud-detection-57em3rhwxstwhjx4papnch.streamlit.app/
