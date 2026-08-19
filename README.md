@@ -1,1 +1,1 @@
-# credit-card-fraud-detection
+Credit Card Fraud Detection using Machine Learning. The project includes data preprocessing, exploratory data analysis, model training and evaluation using Precision, Recall, F1-score, and Confusion Matrix
